@@ -1,7 +1,7 @@
 # Speech Emotion Recognition Model
 
 ## Overview
-A deep learning model for recognizing emotions from audio signals using multiple datasets and advanced feature extraction techniques.
+A deep learning model for recognizing emotions from audio files  trained using multiple datasets 
 
 ## Datasets
 - TESS
